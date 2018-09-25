@@ -1,11 +1,16 @@
 _repo: The-Hermitage-Home-of-Old-Hickory_57231
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57231-h/images/cover.jpg
 creator:
   author:
     agent_name: Horn, Stanley F.
     gutenberg_agent_id: '49263'
     url: http://www.gutenberg.org/2009/agents/49263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57231#The-Hermitage-Home-of-Old-Hickory
 gutenberg_issued: '2018-05-29'
 gutenberg_type: Text
 identifiers:
